@@ -1,0 +1,4 @@
+name = "AttitudeControl"
+uuid = "d17b40f2-4bfd-48d7-b011-5e264596629f"
+authors = ["Brian Jackson <bjack205@gmail.com>"]
+version = "0.1.0"
