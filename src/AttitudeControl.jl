@@ -1,5 +1,11 @@
 module AttitudeControl
 
-greet() = print("Hello World!")
+using LinearAlgebra
+
+import Rotations
+import ForwardDiff
+
+include("dynamics.jl")
+include("integration.jl")
 
 end # module AttitudeControl
